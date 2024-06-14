@@ -2,5 +2,3 @@ adding file from local to remote repository
 
 
 checking diff
-
-one more line
